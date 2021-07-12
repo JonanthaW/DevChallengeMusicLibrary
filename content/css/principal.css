@@ -1,0 +1,136 @@
+.principal {
+  background-color: #03001bf0;
+  height: 100vh;
+  width: calc(100vw - 17vw);
+  display: flex;
+  flex-direction: column;
+  padding-left: 4vw;
+}
+
+.principal input[TYPE="TEXT"] {
+  border: none;
+  border-radius: 10px;
+  margin: 1vw;
+  padding: 1vw 1vw 1vw 0vw;
+  background: none;
+  color: #e5e5e5e7;
+  font-size: 1.2vw;
+  outline: none;
+  width: 50%;
+}
+
+.principal i {
+  position: relative;
+  font-size: 1.3vw;
+  color: gray;
+}
+
+.featured-playlist {
+  overflow: auto;
+}
+.featured-playlist h3, .profile-views h3, .tracks h3 {
+  color: #e5e5e5e7;
+  font-size: 1.5vw;
+  font-weight: bold;
+}
+.featured-playlist ul {
+  display: flex;
+  list-style: none;
+}
+.featured-playlist ul li {
+  margin: 1vw;
+}
+.featured-playlist ul li figure {
+  width: 22vw;
+  height: 29vh;
+}
+.featured-playlist ul li figure img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.featured-playlist ul li figcaption {
+  font-size: 1.4vw;
+  color: #e5e5e5e7;
+  font-weight: bold;
+  margin-top: 1vw;
+}
+.featured-playlist ul li p {
+  font-size: 1vw;
+  color: gray;
+  margin-top: .5vw;
+}
+
+
+.others-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 2vw;
+}
+
+.userview-img-container {
+  width: 3vw;
+  height: 7vh;
+}
+.userview-img-container img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10%;
+}
+.profile-views ul li {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.userinfo-container {
+  padding: 1vw;
+}
+.userinfo-container h3 {
+  color: #e5e5e5e7;
+  font-size: 1vw;
+}
+.userinfo-container p {
+  font-size: .8vw;
+  color: gray;
+  margin-top: .5vw;
+}
+.profile-views ul li h4 {
+  color: gray;
+  font-size: .8vw;
+  padding-left: 5vw;
+}
+.profile-views ul {
+  padding-left: 1vw;
+}
+
+
+.tracks ul {
+  display: flex;
+  list-style: none;
+  overflow: auto;
+  max-width: 35vw;
+}
+.tracks ul li {
+  margin: .8vw;
+}
+.tracks ul li figure {
+  width: 8vw;
+  height: 13vh;
+}
+.tracks ul li figure img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+.tracks ul li figcaption {
+  font-size: .8vw;
+  color: gray;
+  font-weight: bold;
+  margin-top: .5vw;
+}
+.tracks ul li p {
+  font-size: 0.7vw;
+  color: #4d4c4c;
+  font-weight: bold;
+}

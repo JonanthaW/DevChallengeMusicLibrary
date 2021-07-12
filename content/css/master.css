@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  scrollbar-color: rgb(32, 15, 86) #110f28;
+}
+
+main {
+  display: flex;
+}
