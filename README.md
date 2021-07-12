@@ -15,5 +15,5 @@ dashboard de um sistema de músicas semelhante ao Spotify, onde é possível vis
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-DevChallengeMusicLibrary/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/Projeto-DevChallengeMusicLibrary/blob/main/assets/example2.jpg)
+![image](https://github.com/JonanthaW/DevChallengeMusicLibrary/blob/main/assets/example1.jpg)
+![image](https://github.com/JonanthaW/DevChallengeMusicLibrary/blob/main/assets/example2.jpg)
