@@ -20,6 +20,8 @@ dashboard de um sistema de músicas semelhante ao Spotify, onde é possível vis
 
 ### :computer: Baixando o conteúdo:
 
+<p>Feel free to download this repository and use it however you like. </p>
+
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/DevChallengeMusicLibrary.git
 ```
